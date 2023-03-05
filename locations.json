@@ -1,0 +1,29 @@
+[
+  {
+    "zipCode": "60601",
+    "address": "Sarayshyk 1",
+    "city": "Astana",
+    "name": "Home_Alikhan",
+    "userEmail": "alikh@mail.ru",
+    "id": "e8fc6903-637a-4bc1-af85-90eccf2c448d",
+    "state": "Saryarka"
+  },
+  {
+    "zipCode": "60601",
+    "address": "Example 2",
+    "city": "Astana",
+    "name": "Home_Amir",
+    "userEmail": "amir@mail.ru",
+    "id": "5148736b-717d-4e7f-af38-3050a41917c5",
+    "state": "Saryarka"
+  },
+  {
+    "zipCode": "60601",
+    "address": "Example 3",
+    "city": "Astana",
+    "name": "Home_Kuka",
+    "userEmail": "kuka@mail.ru",
+    "id": "bee4c61f-32af-4700-89ca-888ea96511f5",
+    "state": "Saryarka"
+  }
+]
