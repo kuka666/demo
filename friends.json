@@ -1,12 +1,7 @@
 [
   {
-    "accessLevel": "READ_ONLY",
     "friend_email": "kuka@mail.ru",
-    "locationId": "e8fc6903-637a-4bc1-af85-90eccf2c448d"
-  },
-  {
-    "accessLevel": "READ_ONLY",
-    "friend_email": "adil@mail.ru",
-    "locationId": "5148736b-717d-4e7f-af38-3050a41917c5"
+    "locationId": "e8fc6903-637a-4bc1-af85-90eccf2c448d",
+    "accessLevel": "READ_ONLY"
   }
 ]
